@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ion Popescu  ion@git.training @ionpop
 
 # THANKS
 
